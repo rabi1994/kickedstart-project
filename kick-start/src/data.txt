@@ -1,0 +1,67 @@
+const Actived_elements = [
+    {
+        id:1,
+        title:'save Ukriane',
+        author:'Ben Putin',
+        description:'putin is not realted to me, i just love him',
+        funded: 30,
+        target: 400000,
+        final_date: '03/15/2022',
+        image:'https://www.allaboutbirds.org/guide/assets/photo/59954151-720px.jpg'
+
+    },
+    {
+        id:2,
+        title:'memory game',
+        author:'Ben game',
+        description:'i have a bad memory, please give me money',
+        funded: 2,
+        target: 5,
+        final_date: '03/15/2023',
+        image:'https://www.allaboutbirds.org/guide/assets/photo/59954151-720px.jpg'
+
+    },
+    {
+        id:3,
+        title:'save BIBI',
+        author:'Ben natanyaho',
+        description:'we need more submarine....',
+        funded: 450000,
+        target: 4000000,
+        final_date: '04/15/2022',
+        image:'https://www.allaboutbirds.org/guide/assets/photo/59954151-720px.jpg'
+    },
+    {
+        id:4,
+        title:'Axe for all',
+        author:'Simon leviev',
+        description:'please give me back my money ',
+        funded: 300,
+        target: 12000,
+        final_date: '04/03/2022',
+        image:'https://www.allaboutbirds.org/guide/assets/photo/59954151-720px.jpg'
+
+    },
+    {
+        id:5,
+        title:'Google Sunglasses',
+        author:'Elon musk',
+        description:'by Tesla',
+        funded: 4000,
+        target: 4000,
+        final_date:'3/28/2022',
+        image:'https://www.allaboutbirds.org/guide/assets/photo/59954151-720px.jpg'
+
+    },
+    {
+        id:6,
+        title:'Shawrma',
+        author:'Tomer Graff',
+        description:'good Shawarma for oncee',
+        funded: 3,
+        target: 4000,
+        final_date:'02/03/2022',
+        image:'https://www.allaboutbirds.org/guide/assets/photo/59954151-720px.jpg'
+
+    }
+]
