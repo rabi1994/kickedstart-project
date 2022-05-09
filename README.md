@@ -6,8 +6,7 @@
 1) cd kick-start
 2) npm install 
 3) npm start
-second terminal :
+### second terminal :
 1) cd server
 2) npm install 
 3) npm start
-4) 
